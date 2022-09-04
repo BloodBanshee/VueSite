@@ -88,13 +88,13 @@
                               'Shoujo',
                               'Seinen',
                               'Isekai',
-                              'Mecha',
-                              'Slice of Life',
+                              'Sitcom',
+                              'Fantasy',
                               'Romance',
                               'Action',
                               'Sci-fi',
                               'Supernatural',
-                              'Post-apocalyptic',
+                              'Horror',
                             ]"
                             label="Interests"
                             multiple

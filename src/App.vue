@@ -64,7 +64,7 @@ export default {
       },
       {
         text: "Search Shows",
-        path: "/manga",
+        path: "/ShowSearch",
       },
       {
         text: "All Shows",
@@ -72,10 +72,6 @@ export default {
       },
       {
         text: "Login",
-        path: "/login",
-      },
-      {
-        text: "About",
         path: "/login",
       },
     ],
